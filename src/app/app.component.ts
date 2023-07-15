@@ -9,6 +9,5 @@ import { NavbarComponent } from './components/navbar/navbar.component';
   imports: [CommonModule, RouterOutlet, NavbarComponent],
   templateUrl: './app.component.html'
 })
-export class AppComponent {
-  title = 'Sterling Frames';
-}
+
+export class AppComponent {}
